@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MachiKoro")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Intel Corporation")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MachiKoro")]
-[assembly: AssemblyCopyright("Copyright © Intel Corporation 2015")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
